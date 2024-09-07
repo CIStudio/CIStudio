@@ -1,4 +1,4 @@
-![Header](https://github.com/CIStudio/CITStudio/blob/main/img/CIS_LOGO.jpg)
+![Header](https://github.com/CIStudio/CIStudio/blob/main/img/CIS_LOGO.jpg)
 
 ## We are beginner programmers
 
